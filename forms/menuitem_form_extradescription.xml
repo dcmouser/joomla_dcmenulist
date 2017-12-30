@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>    
+<form>
+	<fields name="params">
+		<fieldset name="menulistParams" label="DC Menu List">
+			<field name="dcml_desc" type="editor" label="DcMenuList Description" filter="safehtml" cols="40" rows="4" width="600" height="300"/>
+			<field name="dcml_image" type="media" label="Image to show in DcMenuList page" preview="true"/>
+		</fieldset>
+	</fields>
+</form>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extension version="3.1" type="plugin" group="content">
+
+<name>DcMenulist Plugin</name>
+<creationDate>7/2/17</creationDate>
+<author>Mouser</author>
+<authorEmail>mouser@donationcoder.com</authorEmail>
+<authorUrl>www.donationcoder.com</authorUrl>
+<copyright>Copyright 2017 DonationCoder.com</copyright>
+<license>License TBD</license>
+<version>1.0</version>
+<description>Plugin to display a nice UL list of child menu items of the current page</description>
+
+<files>
+   <filename plugin="dcmenulist">dcmenulist.php</filename>
+   <filename>dcmenulist_helpers.php</filename>
+   <folder>forms</folder>
+</files>
+
+
+</extension>
